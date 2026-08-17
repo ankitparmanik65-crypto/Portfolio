@@ -204,3 +204,9 @@ revealElements.forEach((element) => {
 
   observer.observe(element);
 });
+
+/* =========================
+   FOOTER
+========================= */
+
+document.getElementById("year").textContent = new Date().getFullYear();

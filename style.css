@@ -940,6 +940,9 @@ textarea {
   justify-content: space-between;
 
   gap: 20px;
+
+  padding-right: 70px;
+
 }
 
 .footer p {
@@ -952,6 +955,9 @@ textarea {
   display: flex;
 
   gap: 10px;
+
+  padding-right: 60px;
+
 }
 
 .footer-social a {
@@ -990,7 +996,7 @@ textarea {
 
   transition: var(--transition);
 
-  z-index: 900;
+  z-index: 999;
 }
 
 .scroll-top.show {
