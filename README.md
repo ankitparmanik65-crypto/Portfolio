@@ -20,13 +20,13 @@ https://my-portfolio-seven-lemon-26.vercel.app/
 
 ## 📂 Featured Projects
 
-- Google Clone
+- Shopping Cart App
 - Weather App
+- Rock Paper Scissor Game 
 - Calculator App
 - Currency Converter
 - Quiz App
-- Rock Paper Scissors
-- Cart App
+- Google Clone 
 - Twitter Clone
 - Responsive Login UI
 
