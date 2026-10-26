@@ -74,7 +74,36 @@ A modern and responsive e-commerce web application built with React and Vite.
 
 [GitHub Repository](https://github.com/ankitparmanik65-crypto/Shopping-App)
 
-### 02 — Rock Paper Scissors
+### 02 — AI Expense Tracker
+
+A production-grade, full-stack AI-powered personal finance platform built with the MERN stack.
+
+**Features:**
+
+* Multi-account tracking with auto-balance sync
+* Expense & income categorization
+* AI Receipt OCR scanning
+* AI Voice input entry
+* AI Chatbot (natural language queries)
+* Smart insights & expense forecasting
+* Anomaly detection (unusual transactions)
+* Recurring subscription auto-detection
+* Personalized financial planning & AI Coach
+* Tax workflows (80C / 80D tracking)
+* Automated email alerts (cron jobs)
+* Budgets & savings goals
+* Data backup & restore (JSON)
+* Dark / Light mode
+* PWA (Installable on mobile)
+* Mobile responsive
+
+**Technologies:** React, Node.js, Express, MongoDB, Groq AI, Tailwind CSS, Vite
+
+[Live Demo](https://ai-expense-tracker-two-inky.vercel.app/)
+
+[GitHub Repository](https://github.com/ankitparmanik65-crypto/AI-Expense-Tracker)
+
+### 03 — Rock Paper Scissors
 
 A browser-based Rock Paper Scissors game built using JavaScript.
 
@@ -82,7 +111,7 @@ A browser-based Rock Paper Scissors game built using JavaScript.
 
 [Live Demo](https://rock-paper-scissors-game-mu-blond.vercel.app/)
 
-### 03 — Weather App
+### 04 — Weather App
 
 A JavaScript-based weather application that dynamically displays weather information.
 
@@ -90,7 +119,7 @@ A JavaScript-based weather application that dynamically displays weather informa
 
 [Live Demo](https://weather-app-jgae.vercel.app/)
 
-### 04 — Calculator App
+### 05 — Calculator App
 
 A functional calculator with a clean interface and JavaScript-based calculations.
 
@@ -98,7 +127,7 @@ A functional calculator with a clean interface and JavaScript-based calculations
 
 [Live Demo](https://calculator-ecru-mu-20.vercel.app/)
 
-### 05 — Currency Converter
+### 06 — Currency Converter
 
 A simple currency conversion application built with JavaScript.
 
@@ -106,7 +135,7 @@ A simple currency conversion application built with JavaScript.
 
 [Live Demo](https://currency-converter-app-tawny.vercel.app/)
 
-### 06 — Quiz App
+### 07 — Quiz App
 
 An interactive quiz application with questions, answers and score functionality.
 
@@ -114,7 +143,7 @@ An interactive quiz application with questions, answers and score functionality.
 
 [Live Demo](https://quiz-app-ankit-30a5.vercel.app/)
 
-### 07 — Responsive Login UI
+### 08 — Responsive Login UI
 
 A modern responsive login interface featuring a dark theme, golden glow effects, animations and floating labels.
 
@@ -122,7 +151,7 @@ A modern responsive login interface featuring a dark theme, golden glow effects,
 
 [Live Demo](https://responsive-login-form-ten.vercel.app/)
 
-### 08 — Google Clone
+### 09 — Google Clone
 
 A Google-inspired homepage created to practice HTML structure and CSS styling.
 
@@ -130,7 +159,7 @@ A Google-inspired homepage created to practice HTML structure and CSS styling.
 
 [Live Demo](https://google-clone-iota-murex.vercel.app/)
 
-### 09 — Twitter Clone
+### 10 — Twitter Clone
 
 A responsive Twitter-inspired interface built with Tailwind CSS.
 
